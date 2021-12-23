@@ -1,5 +1,4 @@
-# Unit 20 - "Looks like we've made our First Contract!"
-
+# Smart Contact | Associate Profit Splitter 
 ![contract](Images/smart-contract.png)
 
 ## Background
