@@ -1,5 +1,5 @@
 # Smart Contact | Associate Profit Splitter 
-![contract](Images/smart-contract.png)
+In this Project I used REMIX IDE to Compile and Deploy A Smart Contract.
 
 ## Background
 
