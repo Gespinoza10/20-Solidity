@@ -1,5 +1,5 @@
 # Smart Contract | Associate Profit Splitter 
-```AssociateProfitSplitter``` Contract. this will accept Ether into the contract and divide the Ether evenly among the associate level employees. This will allow the Human Resources department to pay employees quickly and efficiently.
+```AssociateProfitSplitter``` Contract. This contract will accept Ether and divide the Ether evenly among the associate level employees. This will allow the Human Resources department to pay employees quickly and efficiently.
 
 This Smart Contract includes a ```balance``` function and a ```deposit``` function.
 
